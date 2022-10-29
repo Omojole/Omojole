@@ -16,7 +16,7 @@
   <a href="https://twitter.com/AishatOmojole">
     <img src="https://img.shields.io/twitter/follow/Omojole?label=Twitter&logo=twitter&style=for-the-badge" alt=twitter-followers />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=isiakaabd&label=Profile%20views&color=0e75b6&style=flat" alt="Omojole-profile view" />
+  <img src="https://komarev.com/ghpvc/?username=Omojole&label=Profile%20views&color=0e75b6&style=flat" alt="Omojole-profile view" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
